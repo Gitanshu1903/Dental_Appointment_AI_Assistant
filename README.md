@@ -33,11 +33,11 @@ Try the app live: [Dental Clinic Assistant](https://dentaaiassistant.streamlit.a
 
 ## Project Structure
 .
-├── app.py             # Main Streamlit app
-├── assistant.py       # DentalClinicAssistant class
-├── utils.py           # Shared utilities
-├── .env.example       # Environment variable template
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
+- app.py             # Main Streamlit app
+- assistant.py       # DentalClinicAssistant class
+- utils.py           # Shared utilities
+- .env               # Environment variable template
+- requirements.txt   # Python dependencies
+- README.md          # Project documentation
 
 ---
