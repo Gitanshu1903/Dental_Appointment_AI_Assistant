@@ -40,3 +40,8 @@ Try the app live: [Dental Clinic Assistant](https://dentaaiassistant.streamlit.a
 - README.md          # Project documentation
 
 ---
+
+## Demo Image
+![demo](https://github.com/user-attachments/assets/5b9af0a0-6724-4420-9d1f-7e436a161c36)
+
+
